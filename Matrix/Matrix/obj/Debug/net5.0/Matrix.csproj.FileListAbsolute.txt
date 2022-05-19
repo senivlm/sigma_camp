@@ -1,0 +1,16 @@
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\bin\Debug\net5.0\Matrix.exe
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\bin\Debug\net5.0\Matrix.deps.json
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\bin\Debug\net5.0\Matrix.runtimeconfig.json
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\bin\Debug\net5.0\Matrix.runtimeconfig.dev.json
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\bin\Debug\net5.0\Matrix.dll
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\bin\Debug\net5.0\Matrix.pdb
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\Matrix.csproj.AssemblyReference.cache
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\Matrix.AssemblyInfo.cs
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\Matrix.dll
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\refint\Matrix.dll
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\Matrix.pdb
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\Matrix.genruntimeconfig.cache
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Matrix\Matrix\obj\Debug\net5.0\ref\Matrix.dll
