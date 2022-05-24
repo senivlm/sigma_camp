@@ -1,0 +1,16 @@
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\bin\Debug\net5.0\Vector.exe
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\bin\Debug\net5.0\Vector.deps.json
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\bin\Debug\net5.0\Vector.runtimeconfig.json
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\bin\Debug\net5.0\Vector.runtimeconfig.dev.json
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\bin\Debug\net5.0\Vector.dll
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\bin\Debug\net5.0\Vector.pdb
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\Vector.csproj.AssemblyReference.cache
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\Vector.AssemblyInfoInputs.cache
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\Vector.AssemblyInfo.cs
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\Vector.dll
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\refint\Vector.dll
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\Vector.pdb
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\Vector.genruntimeconfig.cache
+C:\Users\IBRAU\source\repos\SigmaCamp\HomeWorks\Vector\Vector\obj\Debug\net5.0\ref\Vector.dll
