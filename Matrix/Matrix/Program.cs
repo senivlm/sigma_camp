@@ -5,7 +5,7 @@ namespace Matrix
     internal class Program
     {
         public class Matrixes
-        {
+        {//Не найкраща ідея винести це в поля
             readonly int _x, _y;
             int[,] _matrix;
 
@@ -34,7 +34,7 @@ namespace Matrix
                     }
                 }
             }
-
+//Крута назвва!!!
             public void FillByStupid45Square()
             {
                 if (_x != _y) { Console.WriteLine("Matrix is not square"); }
