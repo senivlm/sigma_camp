@@ -25,7 +25,7 @@ namespace Vector
                 }
             }
             set
-            {
+            {// тут індекс теж треба контролювати
                 arr[index] = value;
             }
         }
@@ -39,7 +39,7 @@ namespace Vector
         {
             arr = new int[n];
         }
-
+// Такий конструктор є помилковий
         public Vector() { }
 
         public void RandomFill(int a, int b)
@@ -50,7 +50,7 @@ namespace Vector
                 arr[i] = random.Next(a, b);
             }
         }
-
+// Найоптимальніше рандомно міняти 2 індекси довільну кількість раз
         public void RandomFill()
         {
             int index = Array.IndexOf(arr, 2);
